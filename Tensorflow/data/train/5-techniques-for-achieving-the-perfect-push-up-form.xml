@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_data</folder>
+	<filename>5-techniques-for-achieving-the-perfect-push-up-form.jpg</filename>
+	<path>C:\Users\robzl\OneDrive\Desktop\software\fun\pushups\Tensorflow\data\train_data\5-techniques-for-achieving-the-perfect-push-up-form.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1240</width>
+		<height>827</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>467</ymin>
+			<xmax>1206</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+</annotation>

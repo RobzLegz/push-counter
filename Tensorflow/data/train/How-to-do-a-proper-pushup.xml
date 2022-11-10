@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_data</folder>
+	<filename>How-to-do-a-proper-pushup.jpg</filename>
+	<path>C:\Users\robzl\OneDrive\Desktop\software\fun\pushups\Tensorflow\data\train_data\How-to-do-a-proper-pushup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>139</ymin>
+			<xmax>791</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

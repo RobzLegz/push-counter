@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_data</folder>
+	<filename>Pushupxd.jpg</filename>
+	<path>C:\Users\robzl\OneDrive\Desktop\software\fun\pushups\Tensorflow\data\train_data\Pushupxd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>69</ymin>
+			<xmax>1106</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

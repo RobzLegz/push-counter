@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_data</folder>
+	<filename>550px-nowatermark-Increase-the-Number-of-Pushups-You-Can-Do-Step-7-Version-6.jpg</filename>
+	<path>C:\Users\robzl\OneDrive\Desktop\software\fun\pushups\Tensorflow\data\train_data\550px-nowatermark-Increase-the-Number-of-Pushups-You-Can-Do-Step-7-Version-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>106</ymin>
+			<xmax>447</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>
